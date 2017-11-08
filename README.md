@@ -6,3 +6,5 @@ This is a test project on learning Serverless in AWS.
 
 Git and GitHub
 SSH
+HTML
+CSS
